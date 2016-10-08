@@ -3,7 +3,7 @@
 // added one line to code (provided also by Adafruit) to run on ESP8255
 // now I am adding code to send data to the e-NABLE cloud
 // by Les Hall
-// e-NABLE cloud functionality started Thu Sep 29 2016, 5:21 AM USA Central Time
+// e-NABLE cloud ffunctionality started Thu Sep 29 2016, 5:21 AM USA Central Time
 //
 
 
